@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test001.cpp">
+    <ClCompile Include="P461_HammingDistance.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P461_HammingDistance.c">
+    <ClCompile Include="P485_MaxConsecutiveOnes.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

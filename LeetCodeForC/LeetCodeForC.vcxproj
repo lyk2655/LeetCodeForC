@@ -80,6 +80,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="P461_HammingDistance.c" />
+    <ClCompile Include="P476_NumberComplement.c" />
     <ClCompile Include="P485_MaxConsecutiveOnes.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

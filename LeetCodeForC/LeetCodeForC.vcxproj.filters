@@ -21,5 +21,8 @@
     <ClCompile Include="P485_MaxConsecutiveOnes.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P476_NumberComplement.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -18,8 +18,8 @@ int findMaxConsecutiveOnes(int* nums, int numsSize) {
 	return max;
 }
 
-int main() {
-	int a[6] = {1,1,0,1,1,1};
-	printf("%d\n",findMaxConsecutiveOnes(a,6));
-	return 0;
-}
+//int main() {
+//	int a[6] = {1,1,0,1,1,1};
+//	printf("%d\n",findMaxConsecutiveOnes(a,6));
+//	return 0;
+//}

@@ -9,6 +9,7 @@ int hammingDistance(int x, int y) {
 	}
 	int d = 0;
 	for(int i = 0; i < 32; i++) {
+		//十进制转化为二进制，除二取余数就是二级制对应的每一位
 		if(x%2 != y%2) {
 			d++;
 		}
